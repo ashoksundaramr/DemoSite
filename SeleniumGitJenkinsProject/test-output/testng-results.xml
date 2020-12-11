@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-12-09T02:20:25 GMT" name="Suite" finished-at="2020-12-09T02:20:36 GMT" duration-ms="10668">
+  <suite started-at="2020-12-11T00:11:56 GMT" name="Suite" finished-at="2020-12-11T00:12:09 GMT" duration-ms="13497">
     <groups>
     </groups>
-    <test started-at="2020-12-09T02:20:25 GMT" name="Test" finished-at="2020-12-09T02:20:36 GMT" duration-ms="10668">
+    <test started-at="2020-12-11T00:11:56 GMT" name="Test" finished-at="2020-12-11T00:12:09 GMT" duration-ms="13497">
       <class name="bankTest.VerifyLoginTest">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:bankTest.VerifyLoginTest@49070868]" started-at="2020-12-09T02:20:25 GMT" name="beforeClass" finished-at="2020-12-09T02:20:33 GMT" duration-ms="7867" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:bankTest.VerifyLoginTest@3fb1549b]" started-at="2020-12-11T00:11:56 GMT" name="beforeClass" finished-at="2020-12-11T00:12:06 GMT" duration-ms="10149" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="f()[pri:0, instance:bankTest.VerifyLoginTest@49070868]" started-at="2020-12-09T02:20:33 GMT" name="f" finished-at="2020-12-09T02:20:35 GMT" duration-ms="1919" status="PASS">
+        <test-method signature="f()[pri:0, instance:bankTest.VerifyLoginTest@3fb1549b]" started-at="2020-12-11T00:12:06 GMT" name="f" finished-at="2020-12-11T00:12:08 GMT" duration-ms="2400" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:bankTest.VerifyLoginTest@49070868]" started-at="2020-12-09T02:20:35 GMT" name="afterClass" finished-at="2020-12-09T02:20:36 GMT" duration-ms="812" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:bankTest.VerifyLoginTest@3fb1549b]" started-at="2020-12-11T00:12:08 GMT" name="afterClass" finished-at="2020-12-11T00:12:09 GMT" duration-ms="879" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->

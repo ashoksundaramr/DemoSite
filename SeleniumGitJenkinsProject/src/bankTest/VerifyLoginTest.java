@@ -26,6 +26,7 @@ public class VerifyLoginTest {
 	  @AfterClass
 	  public void afterClass() {
 		  System.out.println(driver.getTitle());
+		  System.out.println(driver.getTitle());
 		  driver.quit();
 	  }
 }
